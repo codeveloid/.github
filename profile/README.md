@@ -1,4 +1,4 @@
-<h1 align="center">Hi there fellas👋, We are KKK or KangKodingKisama</h1>
+<h1 align="center">Hi there fellas👋, We are codevelo</h1>
 <h3 align="center">we are a passionate IT guy from Indonesia</h3>
 
 - 🌱 Learning anywhere anytime is our **motto**
